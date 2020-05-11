@@ -1,0 +1,15 @@
+{
+  "name": "learn_es6",
+  "version": "1.0.0",
+  "description": "learn the change between es5 and es6",
+  "main": "arr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learn",
+    "es6"
+  ],
+  "author": "Shine",
+  "license": "ISC"
+}
